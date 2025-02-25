@@ -1,6 +1,6 @@
 {
   "name": "black-friday",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A lightweight, dependency-free utility to calculate Thanksgiving, Black Friday, and Cyber Monday dates for a given year.",
   "license": "MIT",
   "keywords": [
